@@ -37,3 +37,10 @@
 
 12. **Pizza Siciliana**
 (Sos pomidorowy, mozzarella, oliwki, kapary, bakłażan, sardela, oregano)
+
+13. **Pizza Prosciutto e Rucola**
+
+14. **Pizza Quattro Formaggi e Funghi**
+
+
+15. **Pizza Vegetariana**
