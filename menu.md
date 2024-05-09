@@ -39,8 +39,11 @@
 (Sos pomidorowy, mozzarella, oliwki, kapary, bakłażan, sardela, oregano)
 
 13. **Pizza Prosciutto e Rucola**
+(Sos pomidorowy, mozzarella, szynka parmeńska, rukola, płatki parmezanu, oliwa z oliwek)
 
-14. **Pizza Quattro Formaggi e Funghi**
+15. **Pizza Quattro Formaggi e Funghi**
+(Sos pomidorowy, mozzarella, gorgonzola, parmezan, mozzarella di bufala, pieczarki, oregano)
 
 
-15. **Pizza Vegetariana**
+17. **Pizza Vegetariana**
+(Sos pomidorowy, mozzarella, papryka, cukinia, bakłażan, pomidory koktajlowe, czerwona cebula, oliwki, oregano)
