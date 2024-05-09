@@ -41,9 +41,5 @@
 14. **Pizza Prosciutto e Rucola**
 (Sos pomidorowy, mozzarella, szynka parmeńska, rukola, płatki parmezanu, oliwa z oliwek) **€10.50**
 
-15. **Pizza Quattro Formaggi e Funghi**
-(Sos pomidorowy, mozzarella, gorgonzola, parmezan, mozzarella di bufala, pieczarki, oregano) **€11.00**
-
-
-17. **Pizza Vegetariana**
+15. **Pizza Vegetariana**
 (Sos pomidorowy, mozzarella, papryka, cukinia, bakłażan, pomidory koktajlowe, czerwona cebula, oliwki, oregano) **€10.00**
