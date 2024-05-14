@@ -42,6 +42,26 @@
 | 13. | **Pizza Calzone Pepperoni** (Sos pomidorowy, mozzarella, pikantna pepperoni, oregano) |  | **€10.50** | **€13.50** | **€15.00** |
 | 14. | **Pizza Calzone Quattro Stagioni** (Sos pomidorowy, mozzarella, szynka, pieczarki, karczochy, oliwki, szparagi) |  | **€12.50** | **€15.50** | **€17.00** |
 
+
+
+## Pizza wegetariańska
+
+<img src = "zdjecia-restauracja/pexels-roman-odintsov-6147828.jpg" width=300>
+
+| Lp. | Pizza Wegetariańska | Cena: | Rozmiar: 30 cm | Rozmiar: 50 cm | Rozmiar: 60 cm |
+| --- | -------------------- | ----- | -------------- | -------------- | -------------- |
+| 1.  | **Pizza Vegetariana** (Sos pomidorowy, mozzarella, pieczarki, cebula, papryka, oliwki, pomidory koktajlowe, oregano) |  | **€9.00** | **€12.00** | **€13.50** |
+| 2.  | **Pizza Primavera** (Sos pomidorowy, mozzarella, cukinia, bakłażan, pomidory koktajlowe, szparagi, czerwona cebula, oregano) |  | **€10.00** | **€13.00** | **€14.50** |
+| 3.  | **Pizza Spinaci e Funghi** (Sos pomidorowy, mozzarella, szpinak, pieczarki, czerwona cebula, czosnek, oliwki, oregano) |  | **€10.50** | **€13.50** | **€15.00** |
+| 4.  | **Pizza Margherita Vegetariana** (Sos pomidorowy, mozzarella, świeże liście bazylii, pomidory koktajlowe, rukola, oliwki, oregano) |  | **€11.00** | **€14.00** | **€15.50** |
+| 5.  | **Pizza Bianca z Warzywami** (Sos śmietanowy, mozzarella, cukinia, pieczarki, papryka, cebula, suszone pomidory, oregano) |  | **€11.50** | **€14.50** | **€16.00** |
+| 6.  | **Pizza Verdura** (Sos pomidorowy, mozzarella, cukinia, bakłażan, szparagi, pomidory suszone, czosnek, oliwki, oregano) |  | **€12.00** | **€15.00** | **€16.50** |
+| 7.  | **Pizza Pomodoro e Basilico** (Sos pomidorowy, mozzarella, pomidory suszone, świeże liście bazylii, czosnek, oliwki, oregano) |  | **€10.50** | **€13.50** | **€15.00** |
+| 8.  | **Pizza Funghi e Olive** (Sos pomidorowy, mozzarella, pieczarki, oliwki, czerwona cebula, czosnek, oregano) |  | **€11.00** | **€14.00** | **€15.50** |
+| 9.  | **Pizza Ortolana** (Sos pomidorowy, mozzarella, cukinia, bakłażan, pieczarki, papryka, cebula, oliwki, oregano) |  | **€11.50** | **€14.50** | **€16.00** |
+| 10. | **Pizza Margherita z Grillowanymi Warzywami** (Sos pomidorowy, mozzarella, grillowane cukinia, papryka, bakłażan, cebula, pomidory koktajlowe, oregano) |  | **€12.00** | **€15.00** | **€16.50** |
+
+
 ## Makarony
 
 <img src = "zdjecia-restauracja/pexels-dana-tentis-118658-725997.jpg" width=300>
