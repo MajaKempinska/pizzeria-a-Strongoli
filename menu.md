@@ -115,6 +115,12 @@
 | 6. | **Insalata di Pollo** (Sałata, grillowany kurczak, pomidory, ogórki, papryka, czerwona cebula, oliwa z oliwek, ocet winny) | **€11.50** |
 | 7. | **Carpaccio di Manzo** (Plastry wołowiny, rukola, płatki parmezanu, oliwa z oliwek, sok z cytryny, kapary) | **€13.50** |
 
+## Dodatki
+
+1. Cukinia - **€2.50** 
+2. Karczochy - **€3.00** 
+3. Krewetki - **€4.50** 
+
 
 ## Napoje i wina
 
