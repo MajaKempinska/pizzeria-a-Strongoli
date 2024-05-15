@@ -1,2 +1,2 @@
 # pizzeria-a-Strongoli
-Ten plik należy do gałęzi main.
+To jest strona naszej pizzerii.
