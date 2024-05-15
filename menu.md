@@ -122,7 +122,7 @@
 1. Cukinia - **€2.50** 
 2. Karczochy - **€3.00** 
 3. Krewetki - **€4.50**
-4. Frytki - **€2.50**
+4. French fries - **€2.50**
 
 
 ## Napoje i wina
