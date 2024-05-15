@@ -117,9 +117,12 @@
 
 ## Dodatki
 
+<img src = "zdjecia-restauracja/vera-cho-lv7H9OKj_f4-unsplash.jpg" width=300>
+
 1. Cukinia - **€2.50** 
 2. Karczochy - **€3.00** 
-3. Krewetki - **€4.50** 
+3. Krewetki - **€4.50**
+4. Frytki - **€2.50**
 
 
 ## Napoje i wina
