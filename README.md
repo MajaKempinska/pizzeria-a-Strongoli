@@ -1,2 +1,2 @@
 # pizzeria-a-Strongoli
-Ten plik należy do gałęzi Wege.
+To jest strona naszej pizzerii.
