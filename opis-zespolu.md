@@ -2,6 +2,11 @@
 
 ## Kierownik
 
+## Kucharz
+
+## Obsługa
+
 ## Dostawca
 
 ## Grafik
+
