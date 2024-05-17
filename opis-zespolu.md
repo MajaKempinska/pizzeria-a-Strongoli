@@ -4,6 +4,8 @@ W Pizzerii a Strongoli w Marina di Strongoli, zespół stanowi serce i dusza teg
 
 ## Kierownik
 
+Giovanni Rossi
+
 ## Kucharz
 
 ## Obsługa
