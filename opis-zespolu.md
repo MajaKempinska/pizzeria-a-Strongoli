@@ -8,7 +8,7 @@ Nasz zespół składa się z pasjonatów kuchni włoskiej, którzy łączą trad
 
 ## Kierownik
 
-<img src = "zdjecia-restauracja/premium_photo-1683120790016-64e818454dce.jpeg" width=300>
+<img src = "zdjecia-restauracja/photo-1557862921-37829c790f19.jpeg" width=300>
 
 Giovanni Rossi.
 
