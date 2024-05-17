@@ -11,7 +11,7 @@
 
 **Strona internetowa**: www.pizzeriaastrongoli.it
 
-**Profil na Facebooku**: Pizzeria a Strongoli na Facebooku
+**Profil na Facebooku**: @Pizzeria a Strongoli
 
 ## **Godziny otwarcia**:
 
