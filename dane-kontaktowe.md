@@ -19,4 +19,6 @@
 
 **Sobota** **-** **Niedziela**: 12:00 - 23:00
 
+<img src = "zdjecia-restauracja/photo-1414235077428-338989a2e8c0.jpeg" width=300>
+
 
