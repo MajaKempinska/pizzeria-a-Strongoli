@@ -6,18 +6,18 @@
 W **Pizzerii a Strongoli** w Marina di Strongoli, zespół stanowi serce i dusza tego popularnego lokalu. 
 Nasz zespół składa się z pasjonatów kuchni włoskiej, którzy łączą tradycję z nowoczesnością, aby dostarczyć naszym gościom niezapomniane doznania kulinarne.
 
-## Kierownik
+## Manager
 
 <img src = "zdjecia-restauracja/photo-1557862921-37829c790f19.jpeg" width=300>
 
 Giovanni Rossi.
 
-## Kucharz
+## Kucharze
 
 <img src = "zdjecia-restauracja/photo-1558138838-76294be30005.jpeg" width=300>
 
 
- Sofia Esposito, Maria Leone, Giuseppe Ricci, Luca Romano.
+Sofia Esposito, Maria Leone, Giuseppe Ricci, Luca Romano.
 
 ## Obsługa
 
@@ -25,7 +25,7 @@ Giovanni Rossi.
 
 Camilla Monti, Francesca Conti, Elena Greco, Federico Gallo, Giorgio Rinaldi.
 
-## Dostawca
+## Dostawcy
 
 <img src = "zdjecia-restauracja/premium_photo-1682090266701-63bfcebd1281.jpeg" width=300>
 
