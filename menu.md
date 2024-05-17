@@ -123,6 +123,9 @@
 2. Karczochy - **€3.00** 
 3. Krewetki - **€4.50**
 4. French fries - **€2.50**
+5. Arancini - **€4.00**
+6. Bruschetta - **€3.00**
+7. Crostini - **€3.00**
 
 
 ## Napoje i wina
