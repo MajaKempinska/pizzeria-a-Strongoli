@@ -1,6 +1,6 @@
 # Przepisy
 
-Restauracja a Strongoli z przyjemnością dzieli się swoimi przepisami z obcokrajowcami, którzy mieli przyjemność być jej gośćmi. Teraz każdy, kto odwiedził naszą restaurację, może odtworzyć ulubione potrawy we własnym domu, ciesząc się smakiem Marina di Strongoli, niezależnie od tego, gdzie się znajduje. Zapraszamy do kulinarnej podróży i odkrywania włoskiej kuchni w najlepszym wydaniu!
+**Pizzeria a Strongoli** z przyjemnością dzieli się swoimi przepisami z obcokrajowcami, którzy mieli przyjemność być jej gośćmi. Teraz każdy, kto odwiedził naszą restaurację, może odtworzyć ulubione potrawy we własnym domu, ciesząc się smakiem **Marina di Strongoli**, niezależnie od tego, gdzie się znajduje. Zapraszamy do kulinarnej podróży i odkrywania włoskiej kuchni w najlepszym wydaniu!
 
 ## Bruschetta z pomidorami i bazylią
 
