@@ -1,10 +1,14 @@
 # Pizzeria Gusto del Mare
+<img src = "zdjecia-restauracja/
 ## Marina di Strongoli
+
+<img src = "zdjecia-restauracja/photo-1701870856515-82eba2ec6736.jpeg" width=300>
+
 ### Kalabria, Włochy
 
 
 
-Witaj w Gusto del Mare – ukrytej perełce kulinarnych doznań w sercu Marina di Strongoli! Nasza pizzeria jest nie tylko miejscem, gdzie można znaleźć najwyższej jakości pizzę, ale także oazą smaku, aromatu i włoskiej gościnności.
+Witaj w **Gusto del Mare** – ukrytej perełce kulinarnych doznań w sercu Marina di Strongoli! Nasza pizzeria jest nie tylko miejscem, gdzie można znaleźć najwyższej jakości pizzę, ale także oazą smaku, aromatu i włoskiej gościnności.
 
 Gdy wkroczysz do Gusto del Mare, zostaniesz powitany przyjemnym aromatem pieczonego ciasta i świeżych składników. Nasza przyjazna obsługa z uśmiechem na twarzy zapewni Ci niezapomniane doświadczenie kulinarne, podczas gdy Ty rozkoszować się będziesz wyborem spośród naszej różnorodnej karty dań.
 
