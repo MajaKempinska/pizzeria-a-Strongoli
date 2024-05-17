@@ -8,6 +8,8 @@ Giovanni Rossi
 
 ## Kucharz
 
+Luca Romano, Sofia Esposito, Giuseppe Ricci
+
 ## Obsługa
 
 ## Dostawca
